@@ -1,0 +1,28 @@
+
+ .side {  
+  width: auto;  
+} 
+ .meanue{
+  color: aliceblue;
+  font-family: "roboto", sans-serif; 
+
+ }
+ .text
+{
+  color: aliceblue;
+  font-family: "roboto", sans-serif;
+  font-size: 1.2rem;
+}
+.img {
+  width: 53px;
+  max-width: 100%;
+  margin: auto;
+  vertical-align: middle; }
+  .mainlogo{
+  width: 87px;
+  max-width: 100%;
+  margin: auto;
+  vertical-align: middle;
+
+  }
+  

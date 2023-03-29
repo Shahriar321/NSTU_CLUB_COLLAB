@@ -1,0 +1,29 @@
+.message {
+    position: sticky;
+    top: 0;
+    margin: 0 auto;
+    max-width: 3050px;
+    background-color: #f4eeef;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 0;
+    gap: 1.5rem;
+    color: rgb(5, 0, 0);
+    font-family: "Open Sans", sans-serif !important;
+    font-size: 123.5%;
+    font-weight: 25px;
+}
+
+#login {
+    text-decoration: none;
+}
+
+#type-option {
+    width: 100%;
+}
+
+.batch {
+    display: none;
+}
